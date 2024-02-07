@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\PruebaClaseCOM\PruebaClaseCOM\obj\Debug\PruebaClaseCOM.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PruebaClaseCOM\PruebaClaseCOM\obj\Debug\PruebaClaseCOM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PruebaClaseCOM\PruebaClaseCOM\bin\Debug\PruebaClaseCOM.exe.config
+C:\Users\Admin\source\repos\PruebaClaseCOM\PruebaClaseCOM\bin\Debug\PruebaClaseCOM.exe
+C:\Users\Admin\source\repos\PruebaClaseCOM\PruebaClaseCOM\bin\Debug\PruebaClaseCOM.pdb
+C:\Users\Admin\source\repos\PruebaClaseCOM\PruebaClaseCOM\obj\Debug\PruebaClaseCOM.exe
+C:\Users\Admin\source\repos\PruebaClaseCOM\PruebaClaseCOM\obj\Debug\PruebaClaseCOM.pdb
